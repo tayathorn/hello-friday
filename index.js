@@ -1,1 +1,14 @@
-module.exports = name => `Hello ${name}`
+module.exports = name => `
+Dear .. ${name} ❤
+|￣￣￣￣￣￣￣ |  
+
+|    I ❤ U    |
+
+|＿＿＿＿＿ _＿_|
+
+(\__/) || 
+
+(•ㅅ•) || 
+
+/ 　 づ  
+`
